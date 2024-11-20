@@ -1,4 +1,4 @@
-FROM golang:1.22.7
+FROM golang:1.23.3
 
 WORKDIR /go/src/github.com/github/linguist/tools/grammars
 
